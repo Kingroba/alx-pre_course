@@ -1,2 +1,1 @@
-My first readme
-Edit from get github
+My first readme uptodate
